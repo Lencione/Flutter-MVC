@@ -1,16 +1,15 @@
-# navigation
+# Descrição
 
-A new Flutter project.
+Estudos de Flutter - Consumo de API.
+    - Utilizando a lib http (0.13.5)
+Navigator - Navegar entre páginas dentro do app.
+Criação de Widgets personalizados.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Widgets utilizados:
+    - Scaffold
+    - ValueListenableBuilder
+    - AnimatedBuilder
+    - ElevatedButton
+    - Text
+    - Stateless e Stateful Widgets
+    - MaterialStateProperty
